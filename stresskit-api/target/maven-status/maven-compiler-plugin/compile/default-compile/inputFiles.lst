@@ -1,0 +1,8 @@
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/ctl/BotEventController.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/factory/BotFactory.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/exec/BotRunner.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/task/Task.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/proc/Procedure.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/bot/Bot.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/ctl/BotController.java
+/home/agenttroll/IdeaProjects/stresskit/stresskit-api/src/main/java/io/github/caojohnny/stresskit/event/BotEvent.java

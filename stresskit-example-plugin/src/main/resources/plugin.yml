@@ -1,0 +1,11 @@
+main: io.github.caojohnny.stresskitexample.StressKitExamplePlugin
+name: StressKitExamplePlugin
+version: ${project.version}
+api-version: "1.14"
+
+depend: [ StressKit ]
+
+commands:
+  skep:
+    description: "Begins the stress test"
+    usage: "/skep"

@@ -1,0 +1,4 @@
+main: io.github.caojohnny.stresskit.StressKit
+name: StressKit
+version: ${project.version}
+api-version: "1.14"

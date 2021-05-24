@@ -1,0 +1,8 @@
+io/github/caojohnny/stresskit/bot/Bot.class
+io/github/caojohnny/stresskit/task/Task.class
+io/github/caojohnny/stresskit/ctl/BotEventController.class
+io/github/caojohnny/stresskit/factory/BotFactory.class
+io/github/caojohnny/stresskit/exec/BotRunner.class
+io/github/caojohnny/stresskit/event/BotEvent.class
+io/github/caojohnny/stresskit/ctl/BotController.class
+io/github/caojohnny/stresskit/proc/Procedure.class
